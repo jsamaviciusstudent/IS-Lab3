@@ -1,4 +1,7 @@
 # IS-Lab3 (EN)
+# Solution graph:
+
+![Solution graph](lab3.png)
 Intelligent systems. Task for the laboratory on Radial Basis Function Network training.
 # Aim
 Learn to write training (parameter estimation) algorithm for the Radial Basis Function Network based approximator's 2nd laye.
